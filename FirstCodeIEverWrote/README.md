@@ -1,2 +1,2 @@
 This folder contains the first code I ever wrote. I'm not sure everything is here, since it's been nearly a decade since I wrote it, but it contains code I've translated from the IDL programming language into Python, 
-And also some data analysis and processing code I wrote for NASA's GENSIS mission.
+And also some data analysis and processing code I wrote for NASA's GENSIS mission under the supervision of Dr. Dan Reisenfeld during his and my time at the University of Montana. Don't expect to be able to run the code, as the data I used is govt property, and I no longer have access to it. Perhaps you'll see it in a publication one day.
