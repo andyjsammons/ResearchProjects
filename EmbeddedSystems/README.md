@@ -1,0 +1,9 @@
+A lot of the code in this directory was not authored by me, but I'll give you a breakdown of what the goal here was, in reference to the images you see.
+
+1) The device we used had an RBG camera, and a fairly low resolution LiDAR camera. We captured depth data from the LiDAR, and generated an image from the values.
+2) From the LiDAR depth values, and the RGB, I performed an image registration operation to align the RGB image with the LiDAR image.
+   a) The purpose was to use the higher resolution image for edge detection when doing something like dimension estimation of the pictured object, in concert with the depth data
+3) The LiDAR data was messy, as you'll see in some of the images, and so I implemented a filtering method to capture mostly the outlines of the object of interest. In this case the
+   Ottoman foot rest in the center of the images. This worked quite well in regard to capturing edge values we were concerned with.
+4) from then on, I did a connected component analysis of the objects on screen in order to isolate the object of interest.
+5) That's as far as I got.
