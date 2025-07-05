@@ -3,7 +3,7 @@ And also some data analysis and processing code I wrote for NASA's GENESIS missi
 
 Some notes here: 
 1) The code naming scheme is ludacris. I had just finished some code tutorials via Canopy's tutorial offerings, and hadn't thought about version control
-2) I had 'Beginner programmer syndrome', I tended towards initializing way too many variables, and individually populating those variables in my code more often than automatomically filling dict and list values, cause I was a noob, and I didn't understand how easy it is to parse files into new files via Bash, or whatever MacOS's shell is. I use Windows and Ubuntu now. But MacOS is fine.
+2) I had 'Beginner programmer syndrome'; I tended towards initializing way too many variables, and individually populating those variables in my code more often than automatomically filling dict and list values, cause I was a noob, and I didn't understand how easy it is to parse files into new files via Bash, or whatever MacOS's shell is. I use Windows and Ubuntu now. But MacOS is fine.
 3) I tended towards rewriting already written code when adding new/updated features to the code, cause I had only so many hours put into the practice, and I like programming, I guess....
 4) modularity, general functions, etc. <- did not understand value
 5) In fact, I recall one night of heavy thinking where I was reinventing the list. (I guess I skimmed parts of the Canopy tutorials)
