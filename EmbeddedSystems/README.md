@@ -7,3 +7,4 @@ A lot of the code in this directory was not authored by me, but I'll give you a 
    Ottoman foot rest in the center of the images. This worked quite well in regard to capturing edge values we were concerned with.
 4) from then on, I did a connected component analysis of the objects on screen in order to isolate the object of interest.
 5) That's as far as I got.
+6) In hindsight, I know there are AI models (I believe META has a pretty good one) out there that would do this more accurately than filters, but I tried to stay away from AI, cause AI makes mistakes, and I wanted a result that was as simple as possible to achieve computationally.
